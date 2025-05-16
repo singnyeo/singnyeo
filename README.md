@@ -22,7 +22,7 @@
          <a href=https://www.instagram.com/sx._.yxxn/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/sx._.yxxn/"> </a>
          <a href=mailto:rkdtldus0115@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rkdtldus0115@gmail.com"> </a>
           </div>  <br> 
-         ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=singnyeo&show_icons=true&theme=dracula)
+         (https://github-readme-stats.vercel.app/api?username=singnyeo&show_icons=true&theme=dracula)
     <div align= "center">  </div> 
     </div>
     
