@@ -34,5 +34,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=singnyeo&count_private=true&show_icons=true&theme=midnight-purple" />
 <!--   <br />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singnyeo&theme=midnight-purple" /> --> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singnyeo&theme=midnight-purple" /> -->
 </p>
