@@ -22,7 +22,7 @@
          <a href=https://www.instagram.com/sx._.yxxn/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/sx._.yxxn/"> </a>
          <a href=mailto:rkdtldus0115@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rkdtldus0115@gmail.com"> </a>
           </div>  <br> 
-         ![siyeon's GitHub stats](https://github-readme-stats.vercel.app/api?singyneo=seolranlee&count_private=true&show_icons=true&theme=onedark)
+         ![siyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=singyneo&count_private=true&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seolranlee&theme=midnight-purple)
     <div align= "center">  </div> 
     </div>
