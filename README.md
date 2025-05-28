@@ -1,7 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=340094&height=240&text=Kang%20Si%20Yeon&animation=fadeIn&fontColor=ffffff&fontSize=70" />
-</div>
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=320075&height=240&text=Siyeon%20Kang&animation=fadeIn&fontColor=ffffff&fontSize=90" />
+    </div>
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech</h2><br>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
